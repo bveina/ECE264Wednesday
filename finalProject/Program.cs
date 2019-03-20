@@ -6,7 +6,7 @@ namespace finalProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ben Was Here");
+            Console.WriteLine("Ben And Keith Were Here!!!!");
         }
     }
 }
