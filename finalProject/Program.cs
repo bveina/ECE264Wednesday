@@ -8,5 +8,10 @@ namespace finalProject
         {
             Console.WriteLine("Ben And Keith Were Here!!!!");
         }
+
+        static int GetNumber()
+        {
+            return int.Parse(Console.ReadLine());
+        }
     }
 }
