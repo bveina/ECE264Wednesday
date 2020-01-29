@@ -6,7 +6,7 @@ namespace finalProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("fire tim!!!!");
+            Console.WriteLine("tim is cool but still fired!");
         }
 
         static int GetNumber()
